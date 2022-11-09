@@ -8,7 +8,7 @@ Andrew's portfolio showcasing projects in HTML, CSS, and Javascript.
 ## Usage
 
     ```md
-    ![portfolio pic](./assets/images/portfolio%20screenshot.png)
+    ![portfolio pic](assets/images/portfolio%20screenshot.png)
     ```
 
 
