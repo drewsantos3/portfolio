@@ -9,6 +9,7 @@ header, main, footer {
 html, body {
     margin: 0;
     padding:0;
+    background-color: lightblue;
 }
 
 
@@ -31,6 +32,10 @@ header {
     justify-content: space-between;
 }
 
+h1 {
+    color: lightskyblue;
+}
+
 header, main, footer {
     padding: 1.5rem;
 }
@@ -41,3 +46,17 @@ main {
 
 
 /* classes */ 
+.mt- {
+    margin-top: 0.75rem;
+}
+.pt {
+    padding-top: 1.5rem;
+}
+
+.about img {
+    width: 100%;
+    height: auto;
+   border-radius: 50%; 
+   max-width: 15rem;
+   max-height: 15rem;
+}
