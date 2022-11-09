@@ -7,6 +7,10 @@ Andrew's portfolio showcasing projects in HTML, CSS, and Javascript.
 
 ## Usage
 
+Link to deployed application:
+    https://drewsantos3.github.io/portfolio/
+
+Screenshot of deployed application:
     ```md
     ![portfolio pic](assets/images/portfolio%20screenshot.png)
     ```
